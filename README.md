@@ -66,6 +66,20 @@ The `.txt` file in each folder is a sample log from a full run. Running the serv
 
 ---
 
+<!-- syllabus:start -->
+## 📘 Syllabus · official UAH teaching guide
+
+> **Programación Avanzada (780014)** · 6 ECTS · 2nd year · 2nd semester · contents from the 2025-26 teaching guide · [official subject page](https://www.uah.es/es/estudios/estudios-oficiales/grados/asignatura/Programacion-Avanzada-780014/)
+
+| Unit | Hours | Topics |
+|---|---|---|
+| Paradigms and introduction to concurrency | 1.5 ECTS | Programming paradigms · Concurrency problems, shared variables vs distributed memory · Safety and liveness properties · Shared-memory concurrency: busy waiting, locks and conditions |
+| Synchronisation and task management | 3 ECTS | Semaphores, critical regions and monitors · JSR-166 concurrency utilities · Tasks and thread pools |
+| Distributed concurrent programming | 1.5 ECTS | Message passing and sockets · RPC and Java RMI |
+<!-- syllabus:end -->
+
+---
+
 <div align="center">
 
 Miguel Hernández López · [GitHub](https://github.com/MiguelHernandezz) · [LinkedIn](https://www.linkedin.com/in/miguel-hernandez-lopez/)
