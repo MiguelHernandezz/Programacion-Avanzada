@@ -1,0 +1,153 @@
+=== INICIO DE LA SIMULACIÓN DE LA FEDERACIÓN GALÁCTICA ===
+[2026-06-11 16:54:50] Iniciando sistema de la Federación Galáctica...
+[2026-06-11 16:54:50] Todos los monitores e hilos inicializados correctamente.
+[2026-06-11 16:54:50] El saqueador S001 espera en la base.
+[2026-06-11 16:54:50] El delegado D001 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:54:50] La patrulla P001 entra al Hangar de Patrullas.
+[2026-06-11 16:54:52] El delegado D002 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:54:53] La patrulla P001 llega a Depósito de Mineral.
+[2026-06-11 16:54:54] El delegado D001 entra en el planeta Cryon.
+[2026-06-11 16:54:54] El delegado D003 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:54:55] La patrulla P002 entra al Hangar de Patrullas.
+[2026-06-11 16:54:56] ¡ALERTA! El saqueador S001 inicia asalto en Depósito de Cristal.
+[2026-06-11 16:54:56] Ataque saqueador de S001 al Depósito de Cristal: 30 unidades robadas.
+[2026-06-11 16:54:56] Ataque finalizado en Depósito de Cristal. Zona liberada.
+[2026-06-11 16:54:56] La patrulla P001 abandona Depósito de Mineral.
+[2026-06-11 16:54:56] La patrulla P001 llega a Ignis.
+[2026-06-11 16:54:56] El delegado D002 entra en el planeta Ignis.
+[2026-06-11 16:54:56] El delegado D004 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:54:57] El delegado D003 entra en el planeta Drax.
+[2026-06-11 16:54:58] El delegado D001 finaliza extracción y sale de Cryon.
+[2026-06-11 16:54:58] El delegado D001 comienza a depositar en Depósito de Cristal.
+[2026-06-11 16:54:58] La patrulla P001 abandona Ignis.
+[2026-06-11 16:54:58] La patrulla P001 llega a Ignis.
+[2026-06-11 16:54:58] El delegado D005 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:00] La patrulla P002 llega a Ferrum.
+[2026-06-11 16:55:00] El delegado D002 finaliza extracción y sale de Ignis.
+[2026-06-11 16:55:00] El delegado D002 comienza a depositar en Depósito de Plasma.
+[2026-06-11 16:55:00] El delegado D004 entra en el planeta Ignis.
+[2026-06-11 16:55:00] El delegado D001 ha depositado 21 unidades en Depósito de Cristal. Total: 91
+[2026-06-11 16:55:00] El delegado D001 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:00] El delegado D006 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:01] La patrulla P001 abandona Ignis.
+[2026-06-11 16:55:01] La patrulla P001 llega a Depósito de Mineral.
+[2026-06-11 16:55:01] El delegado D005 entra en el planeta Drax.
+[2026-06-11 16:55:01] El delegado D003 finaliza extracción y sale de Drax.
+[2026-06-11 16:55:01] El delegado D003 comienza a depositar en Depósito de Mineral.
+[2026-06-11 16:55:02] La patrulla P002 abandona Ferrum.
+[2026-06-11 16:55:02] La patrulla P002 llega a Ferrum.
+[2026-06-11 16:55:02] El delegado D007 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:02] El delegado D001 entra en el planeta Ignis.
+[2026-06-11 16:55:03] El delegado D002 ha depositado 22 unidades en Depósito de Plasma. Total: 82
+[2026-06-11 16:55:03] El delegado D002 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:03] El delegado D004 finaliza extracción y sale de Ignis.
+[2026-06-11 16:55:03] El delegado D004 comienza a depositar en Depósito de Plasma.
+[2026-06-11 16:55:04] El delegado D006 entra en el planeta Velora.
+[2026-06-11 16:55:04] La patrulla P001 abandona Depósito de Mineral.
+[2026-06-11 16:55:04] La patrulla P001 llega a Depósito de Mineral.
+[2026-06-11 16:55:04] El delegado D003 ha depositado 19 unidades en Depósito de Mineral. Total: 99
+[2026-06-11 16:55:04] El delegado D003 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:04] El delegado D008 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:05] La patrulla P002 abandona Ferrum.
+[2026-06-11 16:55:05] La patrulla P002 llega a Drax.
+[2026-06-11 16:55:05] El delegado D004 ha depositado 24 unidades en Depósito de Plasma. Total: 106
+[2026-06-11 16:55:05] El delegado D004 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:06] El saqueador S001 espera en la base.
+[2026-06-11 16:55:06] El delegado D005 finaliza extracción y sale de Drax.
+[2026-06-11 16:55:06] El delegado D005 comienza a depositar en Depósito de Mineral.
+[2026-06-11 16:55:06] El delegado D007 entra en el planeta Ignis.
+[2026-06-11 16:55:06] El delegado D002 entra en el planeta Ignis.
+[2026-06-11 16:55:06] La patrulla P001 abandona Depósito de Mineral.
+[2026-06-11 16:55:06] La patrulla P001 llega a Depósito de Cristal.
+[2026-06-11 16:55:06] El delegado D009 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:07] El delegado D001 finaliza extracción y sale de Ignis.
+[2026-06-11 16:55:07] El delegado D001 comienza a depositar en Depósito de Plasma.
+[2026-06-11 16:55:07] El delegado D003 entra en el planeta Drax.
+[2026-06-11 16:55:07] El delegado D004 entra en el planeta Velora.
+[2026-06-11 16:55:07] El delegado D006 finaliza extracción y sale de Velora.
+[2026-06-11 16:55:07] El delegado D006 comienza a depositar en Depósito de Cristal.
+[2026-06-11 16:55:08] El delegado D005 ha depositado 10 unidades en Depósito de Mineral. Total: 109
+[2026-06-11 16:55:08] El delegado D005 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:08] El delegado D008 entra en el planeta Ignis.
+[2026-06-11 16:55:08] El delegado D010 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:09] El saqueador S002 espera en la base.
+[2026-06-11 16:55:09] El delegado D001 ha depositado 21 unidades en Depósito de Plasma. Total: 127
+[2026-06-11 16:55:09] El delegado D001 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:09] La patrulla P002 abandona Drax.
+[2026-06-11 16:55:09] La patrulla P002 llega a Ignis.
+[2026-06-11 16:55:09] El delegado D009 entra en el planeta Drax.
+[2026-06-11 16:55:10] El delegado D007 finaliza extracción y sale de Ignis.
+[2026-06-11 16:55:10] El delegado D007 comienza a depositar en Depósito de Plasma.
+[2026-06-11 16:55:10] El delegado D006 ha depositado 21 unidades en Depósito de Cristal. Total: 112
+[2026-06-11 16:55:10] El delegado D006 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:10] La patrulla P001 abandona Depósito de Cristal.
+[2026-06-11 16:55:10] La patrulla P001 llega a Ferrum.
+[2026-06-11 16:55:11] El delegado D002 finaliza extracción y sale de Ignis.
+[2026-06-11 16:55:11] El delegado D005 entra en el planeta Ignis.
+[2026-06-11 16:55:11] El delegado D003 finaliza extracción y sale de Drax.
+[2026-06-11 16:55:11] El delegado D003 comienza a depositar en Depósito de Mineral.
+[2026-06-11 16:55:12] El delegado D004 finaliza extracción y sale de Velora.
+[2026-06-11 16:55:12] El delegado D004 comienza a depositar en Depósito de Cristal.
+[2026-06-11 16:55:12] ¡ALERTA! El saqueador S001 inicia asalto en Depósito de Plasma.
+[2026-06-11 16:55:12] Ataque saqueador de S001 al Depósito de Plasma: 21 unidades robadas.
+[2026-06-11 16:55:12] El delegado D007 ha sido expulsado y va a la Zona de Recuperación.
+[2026-06-11 16:55:12] Ataque finalizado en Depósito de Plasma. Zona liberada.
+[2026-06-11 16:55:12] El delegado D007 entra en la Zona de Recuperación.
+[2026-06-11 16:55:12] El delegado D002 comienza a depositar en Depósito de Plasma.
+[2026-06-11 16:55:12] La patrulla P002 abandona Ignis.
+[2026-06-11 16:55:12] La patrulla P002 llega a Cryon.
+[2026-06-11 16:55:12] El delegado D010 entra en el planeta Velora.
+[2026-06-11 16:55:12] El delegado D001 entra en el planeta Drax.
+[2026-06-11 16:55:12] El delegado D008 finaliza extracción y sale de Ignis.
+[2026-06-11 16:55:12] El delegado D008 comienza a depositar en Depósito de Plasma.
+[2026-06-11 16:55:13] El delegado D009 finaliza extracción y sale de Drax.
+[2026-06-11 16:55:13] El delegado D009 comienza a depositar en Depósito de Mineral.
+[2026-06-11 16:55:14] La patrulla P001 abandona Ferrum.
+[2026-06-11 16:55:14] La patrulla P001 llega a Ferrum.
+[2026-06-11 16:55:14] El delegado D003 ha depositado 13 unidades en Depósito de Mineral. Total: 122
+[2026-06-11 16:55:14] El delegado D003 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:14] El delegado D006 entra en el planeta Drax.
+[2026-06-11 16:55:14] El saqueador S002 entra en combate con una patrulla.
+[2026-06-11 16:55:14] El delegado D008 ha depositado 25 unidades en Depósito de Plasma. Total: 131
+[2026-06-11 16:55:14] El delegado D008 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:14] El delegado D002 ha depositado 25 unidades en Depósito de Plasma. Total: 156
+[2026-06-11 16:55:14] El delegado D002 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:14] El delegado D005 finaliza extracción y sale de Ignis.
+[2026-06-11 16:55:15] El delegado D004 ha depositado 10 unidades en Depósito de Cristal. Total: 122
+[2026-06-11 16:55:15] El delegado D004 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:15] La patrulla P002 abandona Cryon.
+[2026-06-11 16:55:15] La patrulla P002 llega a Depósito de Cristal.
+[2026-06-11 16:55:15] El delegado D001 finaliza extracción y sale de Drax.
+[2026-06-11 16:55:15] El delegado D001 comienza a depositar en Depósito de Mineral.
+[2026-06-11 16:55:16] El delegado D009 ha depositado 17 unidades en Depósito de Mineral. Total: 139
+[2026-06-11 16:55:16] El delegado D009 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:16] El delegado D010 finaliza extracción y sale de Velora.
+[2026-06-11 16:55:16] El delegado D010 comienza a depositar en Depósito de Cristal.
+[2026-06-11 16:55:17] El delegado D004 entra en el planeta Ignis.
+[2026-06-11 16:55:17] La patrulla P001 abandona Ferrum.
+[2026-06-11 16:55:17] La patrulla P001 llega a Velora.
+[2026-06-11 16:55:18] El delegado D003 entra en el planeta Cryon.
+[2026-06-11 16:55:18] El delegado D006 finaliza extracción y sale de Drax.
+[2026-06-11 16:55:18] El delegado D006 comienza a depositar en Depósito de Mineral.
+[2026-06-11 16:55:18] El delegado D001 ha depositado 19 unidades en Depósito de Mineral. Total: 158
+[2026-06-11 16:55:18] El delegado D001 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:18] El delegado D002 entra en el planeta Ferrum.
+[2026-06-11 16:55:18] El delegado D008 entra en el planeta Drax.
+[2026-06-11 16:55:18] El delegado D009 entra en el planeta Ignis.
+[2026-06-11 16:55:19] El delegado D010 ha depositado 20 unidades en Depósito de Cristal. Total: 142
+[2026-06-11 16:55:19] El delegado D010 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:19] La patrulla P002 abandona Depósito de Cristal.
+[2026-06-11 16:55:19] La patrulla P002 llega a Ferrum.
+[2026-06-11 16:55:20] El delegado D004 finaliza extracción y sale de Ignis.
+[2026-06-11 16:55:20] El delegado D006 ha depositado 24 unidades en Depósito de Mineral. Total: 182
+[2026-06-11 16:55:20] El delegado D006 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:20] El saqueador S002 pierde el combate y huye a la base.
+[2026-06-11 16:55:20] El saqueador S002 espera en la base.
+[2026-06-11 16:55:20] La patrulla P001 abandona Velora.
+[2026-06-11 16:55:20] La patrulla P001 llega a Depósito de Cristal.
+[2026-06-11 16:55:21] El delegado D007 sale de la Zona de Recuperación.
+[2026-06-11 16:55:21] El delegado D007 está en el Centro de Coordinación preparando solicitudes.
+[2026-06-11 16:55:21] El delegado D010 entra en el planeta Ignis.
+[2026-06-11 16:55:21] El delegado D001 entra en el planeta Ignis.
+[2026-06-11 16:55:22] El saqueador S001 espera en la base.
+[2026-06-11 16:55:22] El delegado D002 finaliza extracción y sale de Ferrum.

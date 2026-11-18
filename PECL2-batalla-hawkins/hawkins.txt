@@ -1,0 +1,7 @@
+=== INICIO DE LA BATALLA DE HAWKINS ===
+[2026-05-07 12:58:30] Demogorgon D0000 ha entrado a la zona: BOSQUE
+[2026-05-07 12:58:34] Demogorgon D0000 ha entrado a la zona: CENTRO COMERCIAL
+[2026-05-07 12:58:39] Demogorgon D0000 ha entrado a la zona: BOSQUE
+[2026-05-07 12:58:40] El ataque de D0000 sobre N0003 ha FRACASADO
+[2026-05-07 12:58:40] Demogorgon D0000 ha entrado a la zona: CENTRO COMERCIAL
+[2026-05-07 12:58:44] Demogorgon D0000 ha entrado a la zona: BOSQUE
